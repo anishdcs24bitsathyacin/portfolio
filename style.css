@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:white;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+/* Section box */
+.section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 8px;
+}
+
+/* Headings */
+h2 {
+    color: black;
+}
+
+/* List */
+ul {
+    padding-left: 20px;
+}
+
+/* Footer */
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
